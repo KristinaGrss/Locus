@@ -1,0 +1,137 @@
+body { 
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1612px;
+    margin: 0 auto;
+    margin-bottom: 10%;
+}
+
+header img {
+    max-width: 157px;
+}
+
+a { 
+    text-decoration: none;
+    color:#404242;
+    font-weight: 400;
+}
+
+.complex-list li { 
+    font-size: 25px;
+    display: block;
+    display: inline;
+    gap: 87px;
+
+
+}
+
+ul { 
+    list-style-type: none;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    margin: 3% auto 0;
+    
+}
+
+.btn {
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    background: #58A9A5;
+    border-radius: 15px;
+    padding: 21px 89px;
+    transition: all 0.5s ease;
+    margin-left: 230px;
+}
+
+.btn:hover {
+    color: #58A9A5;
+    background: white;
+    border: #58A9A5 2px solid;
+}
+
+.logo {
+    margin-right: 316px;
+}
+
+ul li a {
+    margin-right: 55px;
+    transition: all 0.5s ease;
+
+}
+
+ul li a:hover {
+    color:#58A9A5;
+    font-weight: 700;
+}
+
+.container-main-wrap {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1612px;
+    margin: 0 auto;
+    margin-bottom: 10%;
+    align-items: center;
+    
+}
+
+.btn-main {
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    background: #58A9A5;
+    border-radius: 20px 20px 20px 0px;
+    padding: 21px 89px;
+    transition: all 0.5s ease;
+    display: block;
+    width: 13%;
+}
+
+.btn-main:hover {
+    color: #58A9A5;
+    background: white;
+    border: #58A9A5 2px solid;
+}
+
+.text-main {
+    max-width: 735px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 1.4em;
+    margin-bottom: 50px;
+    color: rgba(28, 35, 35, 1)
+}
+
+p {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    color: rgba(64, 66, 66, 1)
+}
+
+.img-main {
+    max-width: 833px;
+}
+
+.rectangle {
+    position: absolute;
+    /* padding: 42px 55px 16px; */
+}
+
+.img-in {
+    position: relative;
+    padding: 42px 55px 16px;
+}
