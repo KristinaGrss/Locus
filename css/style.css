@@ -193,3 +193,157 @@ p {
     position: absolute;
     padding: 182px 485px 40px 990px;
 }
+
+.text-section-four {
+    text-align: center;
+}
+
+hr {
+    width: 135px;
+    height: 5px;
+    background-color: #58A9A5;
+    margin: 15px auto;
+}
+
+.green-text h2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #58A9A5;
+}
+
+.green-text p {
+    font-weight: 500;
+    font-size: 20px;   
+    color: #486958;
+    margin-top: 5px; 
+    max-width: 453px;
+}
+
+.projects {
+    margin-top: 94px;
+    display: flex;
+    gap: 125px;
+}
+
+.img-workspace {
+    margin-bottom: 35px;
+}
+
+.text-section-five {
+    text-align: center;
+}
+
+.brands {
+    margin: 0 auto;
+    display: block;
+}
+
+.text-info {
+    display: flex;
+    gap: 117px;
+    background: #CCF0E6;
+    padding: 50px 135px 420px 135px;
+    position: relative;
+}
+
+.green-text-info h1 {
+    font-weight: 800;
+    font-size: 70px;
+    color: #58A9A5;
+    margin-bottom: 0;
+}
+
+.green-text-info p {
+    font-weight: 600;
+    font-size: 30px;
+    color: #58A9A5;
+    
+}
+
+.info {
+    display: flex;
+    margin-top: 60px;
+}
+
+.img-info {
+    position: absolute;
+    margin: 245px 781px 134px -50px;
+}
+
+.quote {
+    position: absolute;
+    margin: 300px 95px 120px -20px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #486958;
+
+}
+
+#quote {
+    font-weight: 500;
+    font-size: 25px;
+    color: #486958;
+}
+
+#signature {
+    position: absolute;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    color: #58A9A5;
+    margin: 500px 95px 80px -20px;
+
+}
+
+.text-section-six hr {
+    width: 135px;
+    height: 5px;
+    background-color: #58A9A5;
+    margin: 15px 0;
+}
+
+.section-six {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts {
+    width: 1110px;
+    border: 1px solid #486958;
+}
+
+.contacts input {
+    font-weight: 500;
+    font-size: 25px;
+    color: #486958;
+    margin-left: 54px;
+    margin-top: 57px;
+    margin-bottom: 0;
+}
+
+.contacts hr {
+    width: 1000px;
+    height: 0px;
+    margin-top: 25px;
+}
+
+.text-section-six p {
+    font-weight: 500;
+    font-size: 25px;
+    color: #486958;
+    margin-top: 10px;
+}
+
+.contacts .btn-main {
+    margin: 20px 54px 35px 730px;
+}
+
+input {
+    border: none;
+}
+
+input:focus{
+    border: none;
+    outline:none;
+    box-shadow: none;
+  }
